@@ -83,7 +83,7 @@ class _HomeState extends State<Home> {
                     controller: weightController,
                     validator: (value) {
                       if (value.isEmpty) {
-                        return "Enter your weight!";
+                        return "Enter your weight.";
                       }
                     },
                   ),
@@ -97,7 +97,7 @@ class _HomeState extends State<Home> {
                     controller: heightController,
                     validator: (value) {
                       if (value.isEmpty) {
-                        return "Enter your height!";
+                        return "Enter your height.";
                       }
                     },
                   ),
@@ -112,7 +112,7 @@ class _HomeState extends State<Home> {
                               }
                             },
                             child: Text(
-                              "Calcular",
+                              "Calculate",
                               style: TextStyle(
                                   color: Colors.white, fontSize: 25.0),
                             ),
