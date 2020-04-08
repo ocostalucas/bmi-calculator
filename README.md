@@ -3,7 +3,7 @@
 The **BMI Calculator** can be used to calculate Body Mass Index value and corresponding weight status.
 
 <h1 align="center">
-    <img alt="Template" src="./assets/images/template.png" width="350px" />
+    <img alt="Template" src="./assets/template.png" width="350px" />
 </h1>
  
 ## :recycle: How to contribute  
